@@ -1,0 +1,32 @@
+{
+  "customer": "Northstar Services",
+  "users": [
+    "support agent",
+    "support manager",
+    "operations analyst",
+    "IT admin"
+  ],
+  "systems": [
+    {
+      "name": "CRM",
+      "type": "REST API"
+    },
+    {
+      "name": "Ticketing",
+      "type": "REST API"
+    },
+    {
+      "name": "Policy Library",
+      "type": "documents"
+    },
+    {
+      "name": "Legacy Billing",
+      "type": "CSV export"
+    }
+  ],
+  "constraints": [
+    "No production credentials during POC",
+    "Customer data stays in approved environment",
+    "POC must demonstrate value in 4 weeks"
+  ]
+}

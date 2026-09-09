@@ -1,0 +1,6 @@
+ticket_id,category,priority,text,resolution_minutes
+T001,billing,high,"Customer charged twice and requests refund",42
+T002,access,critical,"MFA reset failed and user is locked out",58
+T003,technical,high,"Mobile application crashes during login",95
+T004,billing,medium,"Need invoice copy for last month",18
+T005,technical,critical,"Production API is returning 500 responses",120

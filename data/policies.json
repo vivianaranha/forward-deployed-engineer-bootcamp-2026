@@ -1,0 +1,17 @@
+[
+  {
+    "id": "POL-1",
+    "title": "Refund Policy",
+    "text": "Refund requests within 30 days require purchase verification before approval."
+  },
+  {
+    "id": "POL-2",
+    "title": "MFA Policy",
+    "text": "MFA reset requires identity verification and administrators must not bypass verification."
+  },
+  {
+    "id": "POL-3",
+    "title": "Incident Policy",
+    "text": "Critical incidents must be acknowledged within 15 minutes and escalated to the incident commander."
+  }
+]
